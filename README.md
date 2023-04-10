@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotHukie (Hugo Barbosa)
 - 👀 I’m interested in creating videogames. 
-- 🌱 I’m currently learning C# on Unity Engine and Unreal Engine 5.
+- 🌱 I’m currently learning C# on Unity and Unreal Engine 5.
 - 📫 How to reach me: Instagram - hugobarbosa22 or gmail - barbosah022@gmail.com
 
 <!---
